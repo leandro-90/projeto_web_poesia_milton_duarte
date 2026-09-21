@@ -28,6 +28,7 @@ h1 {
 a {
   text-decoration: none;
   color: white;
+  font-weight: 900;
 }
 
 section {
@@ -37,10 +38,14 @@ section {
   padding: 50px;
 }
 
+section p {
+  margin: 0;
+}
+
 .imagem {
   color: white;
   background-size: cover;
-  background-attachment: fixed; 
+  background-attachment: fixed;
 }
 
 .imagem p {
@@ -56,4 +61,17 @@ section {
 
 .imagem2 {
   background-image: url("../imagens/background002.jpg");
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  text-decoration: underline;
 }
