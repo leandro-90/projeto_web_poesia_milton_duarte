@@ -10,22 +10,16 @@ O **Projeto Web Poesia Milton Duarte** foi concebido para reunir e exibir obras 
 
 ---
 
-## 🚧 Status do Projeto
-
-> ⏳ **Em andamento**: O projeto está atualmente em fase de desenvolvimento ativo, com novas melhorias de layout, organização de conteúdo e otimizações de estilo sendo implementadas continuamente.
-
----
-
 ## 🚀 Tecnologias Utilizadas
 
 O projeto foi built utilizando tecnologias puras da Web (sem frameworks ou scripts client-side):
 
-* **HTML5**: Estruturação semântica do conteúdo para melhor acessibilidade e SEO.
-* **CSS3**: Estilização completa, incluindo:
-  * Layouts responsivos (Flexbox e CSS Grid).
-  * Variáveis CSS (*Custom Properties*) para manutenção simplificada do tema.
-  * Media Queries para adaptação a dispositivos móveis, tablets e desktops.
-  * Tipografia otimizada para leitura de poesias e textos longos.
+- **HTML5**: Estruturação semântica do conteúdo para melhor acessibilidade e SEO.
+- **CSS3**: Estilização completa, incluindo:
+  - Layouts responsivos (Flexbox e CSS Grid).
+  - Variáveis CSS (_Custom Properties_) para manutenção simplificada do tema.
+  - Media Queries para adaptação a dispositivos móveis, tablets e desktops.
+  - Tipografia otimizada para leitura de poesias e textos longos.
 
 > **Nota:** Este projeto **não utiliza JavaScript**, mantendo o foco em performance, simplicidade de carregamento e compatibilidade total em qualquer navegador sem dependências de execução de scripts.
 
@@ -61,8 +55,7 @@ cd projeto_web_poesia_milton_duarte
 
 3.Abra o projeto:
 
-Basta dar um duplo clique no arquivo index.html ou abri-lo diretamente em seu navegador preferido.
----
+## Basta dar um duplo clique no arquivo index.html ou abri-lo diretamente em seu navegador preferido.
 
 ## ✒️ Autor
 
@@ -84,3 +77,4 @@ projeto_web_poesia_milton_duarte/
 ├── cordel-moderno.txt      # Arquivo de texto contendo o poema base
 ├── index.html              # Página principal do projeto
 └── README.md               # Documentação do repositório
+```
